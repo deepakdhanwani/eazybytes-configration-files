@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Barkha Dhanwani"
+    email: "barkhadhanwani@gmail.com"
+  onCallSupport:
+    -(999) 555-555
+    -(888) 666-666

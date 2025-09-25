@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs"
+  contactDetails:
+    name: "Nimisha Dhanwani"
+    email: "nimishadhanwani@gmail.com"
+  onCallSupport:
+    -(111) 555-555
+    -(222) 666-666

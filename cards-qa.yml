@@ -1,0 +1,8 @@
+cards:
+  message: "Welcome to EazyBank cards related QA APIs"
+  contactDetails:
+    name: "Deepak Dhanwani"
+    email: "deepakdhanwani@gmail.com"
+  onCallSupport:
+    -(555) 555-555
+    -(666) 666-666

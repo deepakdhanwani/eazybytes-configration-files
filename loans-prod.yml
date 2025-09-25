@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EazyBank loans related Prod APIs"
+  contactDetails:
+    name: "Deepak Dhanwani"
+    email: "deepakdhanwani@gmail.com"
+  onCallSupport:
+    -(555) 555-555
+    -(666) 666-666
