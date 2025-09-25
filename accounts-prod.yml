@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Production APIs"
+  message: "Welcome to EazyBank accounts related khara papad APIs"
   contactDetails:
     name: "Nimisha Dhanwani"
     email: "nimishadhanwani@gmail.com"
@@ -10,3 +10,4 @@ accounts:
     -(111) 555-555
 
     -(222) 666-666
+
